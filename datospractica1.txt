@@ -2,3 +2,7 @@ Nombre: Jose Marin
 Edad : 20
 Juegos Actuales:Rocket League ,Minecraft,Red Dead Redemption 2
 Juegos favoritos: Fifa,Rocket League y Watch dogs 
+carrera:Ingenieria petrolera
+materia:
+semestre:
+
